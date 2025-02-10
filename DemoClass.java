@@ -5,7 +5,7 @@ public class DemoClass {
         int number = 20;
         DemoClass demo = new DemoClass();
         String result =   demo.verifyUser(number);
-        System.out.println(result)
+        System.out.println(result);
 
 
     }
