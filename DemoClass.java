@@ -2,7 +2,7 @@ public class DemoClass {
     public static void main(String[] args) {
 
         System.out.println("This is a demo github project!");
-        int number = 20;
+        int number = 21;
         DemoClass demo = new DemoClass();
         String result =   demo.verifyUser(number);
         System.out.println(result);
